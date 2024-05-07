@@ -14,4 +14,4 @@ interval=5
 
 # Controls
 
-Click any mouse button on it connect or disconnect.
+Click any mouse button on it to connect or disconnect.
