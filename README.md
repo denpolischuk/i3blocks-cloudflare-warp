@@ -1,6 +1,6 @@
 # i3blocks-cloudflare-warp
 
-A simple script that shows the connection status of cloudflare warp using systemctl.
+A simple script that shows the connection status of cloudflare warp.
 
 Exits with status code 1 if there's no `warp-cli` installed or no such alias exists.
 
